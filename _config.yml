@@ -12,7 +12,7 @@ mode: dark # default theme "dark" | "light"
 author:
   name: Liu K # author name
   bio: >- # tell to the world
-    我研究康德法哲学，对英美法哲学亦感兴趣，会分享一些哲学片断、学术经验和生活兴趣。 
+    我研究德国哲学，对英美哲学亦感兴趣，会分享一些哲学片断、学术经验和生活兴趣。 
     您可以给我发 <a href="mailto:liuktt@hotmail.com" target="_blank" rel="noopener">邮件</a>。
   username: username # general username
   github: github_username # github username
