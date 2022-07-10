@@ -182,8 +182,9 @@
             {%- endif -%} 
           {%- endfor -%}
         {%- else -%}
-          <a class="menu-link {% if url == '/' %}active{% endif %}" href="/">主页</a>
-          <a class="menu-link {% if url == '/about/' %}active{% endif %}" href="/about">关于</a>
+          <a class="menu-link {% if url == '/' %}active{% endif %}" href="/">home</a>
+          <a class="menu-link {% if url == '/tags/' %}active{% endif %}" href="/about">tags</a>
+          <a class="menu-link {% if url == '/about/' %}active{% endif %}" href="/about">about</a>
         {%- endif -%}
         <a class="menu-link rss" href="/feed.xml">
           <svg
@@ -193,7 +194,7 @@
             viewBox="0 0 512 512"
             fill="#ED812E"
           >
-            <title>订阅</title>
+            <title>Subscribe</title>
             <path
               d="M108.56,342.78a60.34,60.34,0,1,0,60.56,60.44A60.63,60.63,0,0,0,108.56,342.78Z"
             />
