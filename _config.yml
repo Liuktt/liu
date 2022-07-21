@@ -8,6 +8,7 @@ image: assets/img/ogp.png # This image used for Open Graph more info https://ogp
 repo: https://github.com/piharpi/jekyll-klise # site repo [optional]
 mode: dark # default theme "dark" | "light"
 
+incremental: true
 # Profile settings
 author:
   name: Liu K # author name
