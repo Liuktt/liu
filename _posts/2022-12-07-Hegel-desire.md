@@ -17,3 +17,9 @@ Slavoj Zizek: Is Hegel dead-or are dead in the eyes of Hegel?-A Hegelian View of
 
 divine violence：
 
+皮平和阿多诺很多大部头的书写得不咋地，但是一些短篇都不错。皮平的一些影评文章也不错。
+
+叙利亚灾难的形成：
+
+难民：  
+
